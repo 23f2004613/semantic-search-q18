@@ -1,0 +1,3 @@
+[{"id":0,"content":"Authenticate via POST /login with JWT token.","metadata":{"source":"auth.md"}},
+{"id":1,"content":"Database config in settings.py","metadata":{"source":"db.md"}},
+{"id":2,"content":"User registration endpoint.","metadata":{"source":"users.md"}}]
